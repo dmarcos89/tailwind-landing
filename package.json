@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "tailwindcss": "^0.4.0"
+  },
+  "dependencies": {
+    "gulp-postcss": "^7.0.0"
+  }
+}
